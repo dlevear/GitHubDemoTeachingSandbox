@@ -25,4 +25,4 @@ GitHub also lets you type emojis, such as:
 - :bird: `:bird:`
 - :whale: `:whale:`
 
-
+Full list [here](https://gist.github.com/rxaviers/7360908).
