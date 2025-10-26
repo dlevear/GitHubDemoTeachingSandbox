@@ -9,6 +9,6 @@ This repository is used to help demonstrate contributing to a GitHub repository.
 1. `git commit`
 1. `git push`
 
-Check out the `cpp` directory for a demo C++ program.
+See the `cpp` directory for a demo C++ program. See the `py` directory for a demo Python script.
 
 
