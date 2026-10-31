@@ -19,11 +19,10 @@ This file uses Markdown. We can do **bold text** or *italicized text* or `monosp
 
 GitHub also lets you type emojis, such as: 
 
-- :lemon: `:lemon:`
-- :lemon: `:lemon:`
-- :lemon: `:lemon:`
-- :lemon: `:lemon:`
-- :lemon: `:lemon:`
-- :lemon: `:lemon:`
+- :apple: `:apple:`
+- :peach: `:peach:`
+- :clubs: `:clubs:`
+- :bird: `:bird:`
+- :whale: `:whale:`
 
 Full list [here](https://gist.github.com/rxaviers/7360908).
