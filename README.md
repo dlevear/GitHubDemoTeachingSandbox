@@ -19,9 +19,9 @@ This file uses Markdown. We can do **bold text** or *italicized text* or `monosp
 
 GitHub also lets you type emojis, such as: 
 
-- :apple:
-- :orange:
 - :lemon:
-- :banana:
+- :lemon:
+- :lemon:
+- :lemon:
 
 Full list [here](https://gist.github.com/rxaviers/7360908).
